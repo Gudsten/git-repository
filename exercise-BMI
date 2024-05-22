@@ -1,0 +1,2 @@
+# read input
+lenght=float(input("your lenght in meters:"))
